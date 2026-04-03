@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+frontend-run.log
+API_INTEGRATION_GUIDE.md
+backend-run.err.log
+backend-run.log
+CODE_CHANGES_REFERENCE.md
+frontend-run.err.log
+frontend-run.log
+IMPLEMENTATION_SUMMARY.md
+QUICK_START.md
+README.md
+RESUME_ANALYZER_FIXES.md
